@@ -1,4 +1,4 @@
-"""Placeholder for program documentation"""
+"""Prints out fasta sequence given a fasta file."""
 
 import sys
 
